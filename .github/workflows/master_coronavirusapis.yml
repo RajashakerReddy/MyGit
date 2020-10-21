@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'coronavirusapis'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3aa8ff4643e1470f96b6e5ddf475a0ce }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ddde9c6faf124ec29e568279b6171a9f }}
